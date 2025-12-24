@@ -1,4 +1,4 @@
-# Johanes-
+
 cd /path/to/portfolio-yohanes
 git init
 ls -la .git/
